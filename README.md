@@ -2,9 +2,6 @@
 
 币安K线数据
 
-## Author: liujingze
-
-
 ## TodoList
 
 None
